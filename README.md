@@ -1,8 +1,6 @@
 # Github-Pages-CityJump
  Game Project from CSC 2463
 
-PLAY GAME HERE: https://sadief630.github.io/
-
 A motorcyclist doing stunt jumps and driving through city streets (a run/jump/stop game). It's kind of like the Google Dino Jump Game! The objective of the game is to survive as long as possible without failing a quicktime event, which consists of time-sensitive obstacles and red lights that the player must succeed at avoiding to continue the run. The game will end after the biker “crashes” by missing a quicktime event. There is a score ticker that tracks progress, as well as a timer that tracks the distance elapsed. The  final score will be dependent on the amount of obstacles jumped. The game will get more difficult as time progresses, indicated by score thresholds.
 
 There are three different game states:
